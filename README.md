@@ -4,3 +4,6 @@
 Achieve computer security with AES, RSA, and digital signatures.
 
 First, run the save.py file. Then run the server2.py and client2.py files to validate the protocol.
+
+The final report is available at this link.
+https://drive.google.com/file/d/1f83Y5704DL694mjadM2tzaPAhEgBFNqc/view?usp=sharing
