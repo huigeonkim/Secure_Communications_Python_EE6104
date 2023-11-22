@@ -19,7 +19,7 @@ Follow these steps to get started with the project.
 
 ### Installation
 1. Clone the repository:
-git clone https://github.com/huigeonkim/CryptoImplementations.git
+`git clone https://github.com/huigeonkim/Secure_Communications_Python_EE6104.git`
 
 2. Navigate to the repository directory:
 `cd CryptoImplementations`
