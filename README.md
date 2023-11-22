@@ -3,6 +3,9 @@
 
 # CryptoImplementations
 
+## Final Report.pdf
+- For detailed information, refer to the [Final Report](https://drive.google.com/file/d/1f83Y5704DL694mjadM2tzaPAhEgBFNqc/view?usp=sharing).
+
 ## Introduction
 Welcome to `CryptoImplementations`, a repository focused on demonstrating key computer security techniques using AES (Advanced Encryption Standard), RSA (Rivest–Shamir–Adleman) encryption, and digital signatures in Python.
 
@@ -37,9 +40,6 @@ We welcome contributions to this project. Please adhere to best code contributio
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-
-## Additional Resources
-- For detailed information, refer to the [final report]([https://drive.google.com/link-to-final-report]([https://drive.google.com/file/d/1f83Y5704DL694mjadM2tzaPAhEgBFNqc/view?usp=sharing](https://drive.google.com/file/d/1f83Y5704DL694mjadM2tzaPAhEgBFNqc/view?usp=sharing))).
 
 ## Contact
 For queries or discussions, feel free to open an issue in the repository or contact the repository owner directly.
