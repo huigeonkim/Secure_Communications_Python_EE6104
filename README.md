@@ -2,7 +2,7 @@
 
 # CryptoImplementations
 
-## Final Report.pdf
+## Final_Report.pdf
 - For detailed information, refer to the [Final Report](https://drive.google.com/file/d/1f83Y5704DL694mjadM2tzaPAhEgBFNqc/view?usp=sharing).
 
 ## Introduction
@@ -25,10 +25,10 @@ Follow these steps to get started with the project.
 `git clone https://github.com/huigeonkim/Secure_Communications_Python_EE6104.git`
 
 2. Navigate to the repository directory:
-3. 
+
 `cd CryptoImplementations`
 
-4. Install any required dependencies.
+3. Install any required dependencies.
 
 ## Usage
 The project includes several scripts that demonstrate different security techniques:
@@ -40,7 +40,7 @@ The project includes several scripts that demonstrate different security techniq
 We welcome contributions to this project. Please adhere to best code contribution practices.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 For queries or discussions, feel free to open an issue in the repository or contact the repository owner directly.
