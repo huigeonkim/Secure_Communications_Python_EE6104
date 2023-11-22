@@ -21,12 +21,14 @@ Follow these steps to get started with the project.
 
 ### Installation
 1. Clone the repository:
+
 `git clone https://github.com/huigeonkim/Secure_Communications_Python_EE6104.git`
 
 2. Navigate to the repository directory:
+3. 
 `cd CryptoImplementations`
 
-3. Install any required dependencies (if specified).
+4. Install any required dependencies.
 
 ## Usage
 The project includes several scripts that demonstrate different security techniques:
