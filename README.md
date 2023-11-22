@@ -39,7 +39,7 @@ We welcome contributions to this project. Please adhere to best code contributio
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Additional Resources
-- For detailed information, refer to the [final report](https://drive.google.com/link-to-final-report).
+- For detailed information, refer to the [final report]([https://drive.google.com/link-to-final-report](https://drive.google.com/file/d/1f83Y5704DL694mjadM2tzaPAhEgBFNqc/view?usp=sharing)).
 
 ## Contact
 For queries or discussions, feel free to open an issue in the repository or contact the repository owner directly.
